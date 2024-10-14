@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "beautiful-view-greenery-bridge-forest-perfect-background.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "beautiful-view-greenery-bridge-forest-perfect-background@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "beautiful-view-greenery-bridge-forest-perfect-background@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
